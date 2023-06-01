@@ -1,6 +1,0 @@
-/home/cinboy/formatter_ex_lib/build/CMakeFiles/formatter_ex_lib.dir
-/home/cinboy/formatter_ex_lib/build/CMakeFiles/edit_cache.dir
-/home/cinboy/formatter_ex_lib/build/CMakeFiles/rebuild_cache.dir
-/home/cinboy/formatter_ex_lib/build/formatter/CMakeFiles/formatter_lib.dir
-/home/cinboy/formatter_ex_lib/build/formatter/CMakeFiles/edit_cache.dir
-/home/cinboy/formatter_ex_lib/build/formatter/CMakeFiles/rebuild_cache.dir
